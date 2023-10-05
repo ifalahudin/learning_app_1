@@ -1,6 +1,8 @@
 {
 	"editor.fontFamily": "open sans",
+	// "editor.accessibilityPageSize": 500,
+	// "editor.wordWrapColumn": 200,
+	"html.format.wrapLineLength": 120,
 	"editor.accessibilityPageSize": 500,
-	"editor.wordWrapColumn": 200,
-	"html.format.wrapLineLength": 120
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
